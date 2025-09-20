@@ -1,0 +1,7 @@
+# Feature A: Quản lý người dùng
+
+1. Đăng ký tài khoản.
+2. Đăng nhập hệ thống.
+3. Đổi mật khẩu.
+4. Quản lý thông tin cá nhân.
+5. Đăng xuất tài khoản.
