@@ -14,3 +14,9 @@ Kỹ năng:
 1. Git & GitHub
 2. Lập trình Python và C++
 3. Làm việc nhóm và quản lý thời gian
+Kế hoạch học tập:
+1. Hoàn thành môn học Git trong học kỳ này.
+2. Luyện tập Git hàng ngày để nắm chắc lệnh cơ bản.
+3. Tìm hiểu thêm về Git branching và merge.
+4. Tham gia dự án nhóm để áp dụng Git thực tế.
+5. Chuẩn bị cho kỳ thi cuối kỳ bằng cách làm đề thực hành.
