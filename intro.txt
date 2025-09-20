@@ -3,3 +3,10 @@ Tôi hiện đang là sinh viên ngành Công nghệ thông tin.
 Tôi yêu thích lập trình và mong muốn trở thành một kỹ sư phần mềm.
 Sở thích của tôi là: đọc sách công nghệ, chơi cờ vua, nghe nhạc.
 Kỹ năng: lập trình Python, quản lý Git/GitHub, phân tích thuật toán.
+
+Kế hoạch học tập:
+1. Hoàn thành các môn học nền tảng CNTT trong 2 năm tới.
+2. Thực hiện các dự án nhỏ cá nhân bằng Python và Java.
+3. Tham gia các cuộc thi lập trình để nâng cao tư duy thuật toán.
+4. Học thêm về phát triển web (HTML, CSS, JavaScript, React).
+5. Rèn luyện kỹ năng tiếng Anh để đọc tài liệu và giao tiếp chuyên ngành.
