@@ -1,9 +1,0 @@
-Giới thiệu: Tôi là Nguyễn Văn A, sinh viên ngành CNTT. Tôi yêu thích công nghệ và học hỏi cái mới.
-Sở thích: 
-1. Đọc sách
-2. Lập trình
-3. Chơi thể thao
-Kỹ năng:
-1. Git & GitHub
-2. Lập trình Python
-3. Làm việc nhóm
