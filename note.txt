@@ -1,0 +1,3 @@
+Git giúp tôi quản lý mã nguồn dễ dàng.
+Git hỗ trợ làm việc nhóm hiệu quả.
+Git cho phép theo dõi lịch sử thay đổi của dự án.
