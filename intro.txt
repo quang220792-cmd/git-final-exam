@@ -1,0 +1,16 @@
+Giới thiệu:
+Tôi tên là Huỳnh Minh Quang.
+Sinh viên ngành Công nghệ thông tin.
+Hiện đang học tại Trường Đại học Nam Cần Thơ.
+Tôi yêu thích công nghệ và thích học hỏi điều mới.
+Mục tiêu của tôi là trở thành lập trình viên phần mềm giỏi, có thể tham gia các dự án thực tế.
+
+Sở thích:
+1. Đọc sách công nghệ
+2. Lập trình và học ngôn ngữ mới
+3. Chơi thể thao, đặc biệt là bóng đá
+
+Kỹ năng:
+1. Git & GitHub
+2. Lập trình Python và C++
+3. Làm việc nhóm và quản lý thời gian
