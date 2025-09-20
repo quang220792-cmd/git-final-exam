@@ -1,3 +1,5 @@
 Git giúp tôi quản lý mã nguồn dễ dàng.
 Git hỗ trợ làm việc nhóm hiệu quả.
 Git cho phép theo dõi lịch sử thay đổi của dự án.
+Git reset rất hữu ích khi tôi commit nhầm.
+Git revert giúp tôi sửa lỗi mà vẫn giữ được lịch sử.
